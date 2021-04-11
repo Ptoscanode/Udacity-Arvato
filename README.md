@@ -21,7 +21,8 @@ The project needs the following libraries in the Anaconda distribution to run:
 
 ## Files in the repository
 
-```Identify_Customer_Segments_Toscano_Paulo```: Jupyter notebook containing the analysis of the project 
+```Identify_Customer_Segments_Toscano_Paulo```: Jupyter notebook containing the analysis of the project
+<br/>
 ```picture1.png```: Bar chart with the cluster comparison (General Population x Customer Population)
 
 
